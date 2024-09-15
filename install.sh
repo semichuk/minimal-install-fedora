@@ -1,4 +1,4 @@
-sudo dnf install google-chrome-stable zsh transmission timeshift dotnet-sdk-8.0 gnome-tweaks wireguard source-foundry-hack-fonts -y
+sudo dnf install google-chrome-stable zsh transmission timeshift gnome-tweaks source-foundry-hack-fonts -y
 git clone https://github.com/semichuk/WhiteSur-gtk-theme.git
 git clone https://github.com/semichuk/WhiteSur-icon-theme.git
 git clone https://github.com/semichuk/McMojave-cursors.git
