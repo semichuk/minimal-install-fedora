@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo dnf install google-chrome-stable fzf zsh source-foundry-hack-fonts dotnet-sdk-8.0 gnome-tweaks timeshift -y
+sudo dnf install google-chrome-stable fzf zsh source-foundry-hack-fonts gnome-tweaks timeshift -y
 #install flatpak apps
 flatpak install flathub com.github.tchx84.Flatseal
 flatpak install flathub com.mattjakeman.ExtensionManager
